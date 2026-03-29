@@ -13,10 +13,10 @@ W3Schools Linux Tutorial
 
 ## Screenshots
 
-![Git_Progress](https://github.com/user-attachments/assets/55cc8383-7f72-4256-a594-ef27d7f62693)
+![Bash_Progress_Report](https://github.com/user-attachments/assets/62a33828-2426-4d88-80f9-2c74dada6ecc)
 
 
-![Git_Quiz_Result](https://github.com/user-attachments/assets/8b0a58ac-89f1-4fc4-9c91-8876f4a0957d)
+![Bash_Quize](https://github.com/user-attachments/assets/ec4144fa-e4a9-49fa-ac33-6b97c9cff340)
 
 
 ## Conclusion
