@@ -1,16 +1,16 @@
-![Showing_the_data_inserted](https://github.com/user-attachments/assets/052db5c3-2a99-4674-8faa-f45241aebe27)
+![Showing_the_data_inserted](https://github.com/user-attachments/assets/cf7de58f-2306-4f6e-84ac-fc511951f042)
 
-![Inserted_data](https://github.com/user-attachments/assets/99bdeaf2-bb58-40d1-bb16-4db761aa5d17)
+![Inserted_data](https://github.com/user-attachments/assets/11ca4c5e-3119-4005-be75-9fef5375a40c)
 
-![Update_and_delete](https://github.com/user-attachments/assets/d3622a2f-7cdb-4b2f-a59c-84a6638a7e65)
+![Update_and_delete](https://github.com/user-attachments/assets/c3d5b958-26c4-4e7c-b2b2-4e9a034f668c)
 
-![Database_creation](https://github.com/user-attachments/assets/ef670dce-eefd-4d8e-9cca-8feea60e0520)
+![Joins;](https://github.com/user-attachments/assets/cc832f8f-10e6-421a-91d9-376ae920fb33)
 
-![Joins;](https://github.com/user-attachments/assets/969d6378-2a72-401a-bced-69f2bae06fef)
+![Self_join](https://github.com/user-attachments/assets/5aadb6b5-0cb7-4359-8a25-8db20f6d3d27)
 
-![Self_join](https://github.com/user-attachments/assets/1a2e605b-7bf1-43b1-86f9-b42ee6a752ae)
+![Cross_Joins](https://github.com/user-attachments/assets/ad0bcae2-4e70-45fa-8d67-9c97dab95fcd)
 
-![Cross_Joins](https://github.com/user-attachments/assets/38559806-1202-49cf-971f-2f2cfb47d635)
+![aggregation](https://github.com/user-attachments/assets/b65a6a7d-698f-4ab6-92e6-56fc49c4810c)
 
-![aggregation](https://github.com/user-attachments/assets/2970c699-565f-4e55-8312-a43af106ada8)
+
 
