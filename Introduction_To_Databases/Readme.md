@@ -9,14 +9,6 @@ This repository contains SQL practice files created while learning basic to inte
 * MySQL Command Prompt
 * SQL
 
-## Files
-
-```text
-SQL-Practice/
-├── schema_creation.sql
-├── queries_and_joins.sql
-├── README.md
-└── screenshots/
 ```
 
 ## Topics Covered
