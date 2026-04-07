@@ -39,3 +39,12 @@ Node.js
 
 ![SUD_API_Response](https://github.com/user-attachments/assets/4538e12e-cbaa-41a7-8013-d1e6721c0407)
 
+
+
+
+## W3 JS Quize Score:
+
+![JS_Quize](https://github.com/user-attachments/assets/823fa18d-c131-4cff-91e8-f8e9bb0f4474)
+
+
+
