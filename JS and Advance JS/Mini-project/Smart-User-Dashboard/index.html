@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Smart User Dashboard</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Smart User Dashboard</h1>
+      <p class="subtitle">Mini project to demonstrate JavaScript concepts</p>
+
+      <section class="card">
+        <h2>Live Clock</h2>
+        <p id="clock">Loading time...</p>
+      </section>
+
+      <section class="card">
+        <h2>User Registration</h2>
+        <form id="userForm">
+          <input type="text" id="name" placeholder="Enter name" />
+          <input type="email" id="email" placeholder="Enter email" />
+          <input type="number" id="age" placeholder="Enter age" />
+          <button type="submit">Register</button>
+        </form>
+        <p id="formMessage"></p>
+        <p id="welcomeMessage"></p>
+      </section>
+
+      <section class="card">
+        <h2>Task Manager</h2>
+        <input type="text" id="taskInput" placeholder="Enter a task" />
+        <button id="addTaskBtn">Add Task</button>
+        <ul id="taskList"></ul>
+      </section>
+
+      <section class="card">
+        <h2>API Users</h2>
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Search users by name"
+        />
+        <button id="loadUsersBtn">Load Users</button>
+        <ul id="userList"></ul>
+      </section>
+
+      <section class="card">
+        <h2>Dashboard Summary</h2>
+        <p id="summary"></p>
+      </section>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
